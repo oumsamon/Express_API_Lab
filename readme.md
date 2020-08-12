@@ -42,6 +42,15 @@ We recommend using the Giphy site to get gifs. Use the full URL that has the
 `.gif` file extension (e.g.
 "https://media.giphy.com/media/3o6ozBUuLfzTCngAFi/giphy.gif").
 
+### Required Planning - Create a Request-Response Cycle Diagram
+In your breakout group, take about 30 minutes to co-create a visual representation 
+of the request-response cycle for your Gaphy app. You can use [the 
+diagram](./request-response-cycle-example.png) we created together 
+in class as an example.
+
+You MUST complete this step before you start writing code. Use your diagram 
+to help guide where you need to add code to create your API.
+
 ### Tips for Getting Started
 
 * To start, you'll want to set up all your backend folders and files (think: `db` folder, `index.js` file, etc.).
