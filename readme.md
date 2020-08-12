@@ -44,16 +44,19 @@ We recommend using the Giphy site to get gifs. Use the full URL that has the
 
 ### Required Planning - Create a Request-Response Cycle Diagram
 In your breakout group, take about 30 minutes to co-create a visual representation 
-of the request-response cycle for your Gaphy app. You can use [the 
+of the request-response cycle for your Gaphy app based on the requirements above. 
+
+You can use [the 
 diagram](./request-response-cycle-example.png) we created together 
 in class as an example.
 
-You MUST complete this step before you start writing code. Use your diagram 
-to help guide where you need to add code to create your API.
+You MUST complete this step before you start writing any code. Use your diagram 
+as a guide during the coding process.
 
 ### Tips for Getting Started
 
-* To start, you'll want to set up all your backend folders and files (think: `db` folder, `index.js` file, etc.).
+* To start, do a codebase review of the repo.
+* You'll want to set up all your backend folders and files (think: `db` folder, `index.js` file, etc.). 
 * You'll also want to run `npm init` to create a `package.json` file to manage dependencies (e.g. `express`).
 * Set up routes in a controller.
 * Once you have your back end running on `http://localhost:3000/gifs`, open `index.html` on the front end to test your routes via the frontend buttons.
