@@ -47,7 +47,7 @@ In your breakout group, take about 30 minutes to co-create a visual representati
 of the request-response cycle for your Gaphy app based on the requirements above. 
 
 You can use [the 
-diagram](./request-response-cycle-example.png) we created together 
+diagram](./request-response-cycle-example.png) of the book-e-json back end we created together 
 in class as an example.
 
 You MUST complete this step before you start writing any code. Use your diagram 
