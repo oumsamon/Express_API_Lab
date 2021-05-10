@@ -66,6 +66,9 @@ and frontend together, you may have to modify and fix your backend.
 
 ## Bonus
 
+
+* After running the backend on Localhost through the provided front end, create a new React and combine your front and back ends to create a full stack application! Make sure you can read and show your data before working on C, U, and D routes!
+
 * Deploy your backend to Heroku and frontend to GitHub pages.
 * Add tagging functionality.
 * Add another model to the API.
