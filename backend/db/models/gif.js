@@ -2,7 +2,7 @@ const mongoose = require('../connection')
 
 const GifSchema = new mongoose.Schema({
     name: String,
-    url: String
+    url: {type: String, required: true}
 },
 {timestamps: true}
 )

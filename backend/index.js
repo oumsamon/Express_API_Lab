@@ -8,7 +8,7 @@ app.use(express.urlencoded({ extended: true }));
 
 /* START CONTROLLERS HERE */
 const gifController = require('./controller/gifs')
-app.use('./gifs', gifController)
+app.use('/gifs', gifController)
 
 
 /* END CONTROLLERS HERE */
